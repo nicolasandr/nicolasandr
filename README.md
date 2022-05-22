@@ -17,10 +17,7 @@ Programming languages:</h3>
   
 <h3 align="left">Other systems:</h3>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-  
-<h3 align="left">Github stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasandr&show_icons=true&locale=en&layout=compact" alt="nicolasandr" /></p>
+ 
 
 <h3 align="left">Github stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasandr&show_icons=true&locale=en" alt="nicolasandr" /></p>
