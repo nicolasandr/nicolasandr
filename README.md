@@ -22,5 +22,5 @@ Programming languages:</h3>
 <h3 align="left">Github stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasandr&show_icons=true&locale=en" alt="nicolasandr" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasandr&show_icons=true&locale=en" alt="nicolasandr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasandr&show_icons=true&locale=en&layout=compact" alt="nicolasandr" /></p>
 
