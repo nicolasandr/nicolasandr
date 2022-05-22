@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 
-<img src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="css3" width="100%" height="50" hspace="20"/>
+<img src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="css3" width="100%" height="350" hspace="20"/>
 
 
 <h3 align="center">A passionate developer from Argentina</h3>
