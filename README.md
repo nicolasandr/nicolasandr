@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nico 👋
 
 <!--
 **nicolasandr/nicolasandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
