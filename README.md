@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 
-[//raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://github.com/nicolasandr/nicolasandr/issues/1#issue-1245345495)
+![//raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://github.com/nicolasandr/nicolasandr/issues/1#issue-1245345495)
 
 <h3 align="center">A passionate maker from Argentina</h3>
 
