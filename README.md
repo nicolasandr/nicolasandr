@@ -1,6 +1,7 @@
 
 
-![banner](https://user-images.githubusercontent.com/104153196/169857651-bd22e927-be44-4a48-a639-95ff3f6f8ded.png)
+![Diapositiva1](https://user-images.githubusercontent.com/104153196/169871018-8f4a7924-1d63-4da1-8115-677d064f9142.PNG)
+
 
 <h3 align="center">A passionate maker from Argentina</h3>
 
