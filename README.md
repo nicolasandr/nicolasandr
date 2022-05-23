@@ -3,7 +3,7 @@
 <img src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="css3" width="100%" height="500" hspace="0"/>
 
 
-<h3 align="center">A passionate developer from Argentina</h3>
+<h3 align="center">A passionate maker from Argentina</h3>
 
 - 📫 How to reach me **nicolasandrade328@gmail.com**
 
