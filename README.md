@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 
-<img src="[https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940](https://user-images.githubusercontent.com/104153196/169853392-3d6ff72a-37e0-4cd5-9f68-0aa6e1da8985.png)" alt="css3" width="100%" height="500" hspace="0"/>
+[[<img src="[https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940](https://user-images.githubusercontent.com/104153196/169853392-3d6ff72a-37e0-4cd5-9f68-0aa6e1da8985.png)" alt="css3" width="100%" height="500" hspace="0"/>](https://github.com/nicolasandr/nicolasandr/issues/1#issue-1245345495)](https://github.com/nicolasandr/nicolasandr/issues/1#issue-1245345495)
 
 
 <h3 align="center">A passionate maker from Argentina</h3>
